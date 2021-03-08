@@ -1,3 +1,0 @@
-Yanga
-
-Kanzi
