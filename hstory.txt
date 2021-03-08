@@ -1,0 +1,2149 @@
+    1  nano ~/.zshrc
+    2  exit
+    3  nano ~/.zshrc
+    4  exit
+    5  /usr/local/bin/python3.7 -m pip install -U pylint --user
+    6  pip install --upgrade pip
+    7  cd Documents
+    8  cd Projects
+    9  cd Data\ Wrangling
+   10  ls
+   11  virtualenv -p /usr/bin/python3 data
+   12  source data/bin/activate
+   13  pip3 install pandas
+   14  jupyter notebook
+   15  ls
+   16  ls -a
+   17  nano .gitignore
+   18  touch requirements.txt
+   19  pip3 freeze >> requirements.txt
+   20  nano requirements.txt
+   21  ls -a
+   22  git init
+   23  git add .
+   24  git reset .
+   25  nano .gitignore
+   26  git add .
+   27  sit status
+   28  git status
+   29  git commit --all -m "Initial Commit"
+   30  git remote add origin https://github.com/Shalom91/Data-Wrangling.git\ngit push -u origin master
+   31  exit
+   32  ls Documents
+   33  cd Pro
+   34  cd Documents
+   35  cd Projects
+   36  ls
+   37  cd 'Data Wrangling'
+   38  ls
+   39  source data/bin/activate
+   40  jupyter notebook
+   41  git init
+   42  git add 'Data Wrangling Project.ipynb'
+   43  git commit -m 'Second commit'
+   44  git remote add origin https://github.com/Shalom91/Data-Wrangling.git
+   45  git push -u origin master
+   46  exit
+   47  sudo add-apt-repository ppa:oguzhaninan/stacer
+   48  sudo apt update
+   49  sudo apt-get install stacer
+   50  exit
+   51  nano ~/.zshrc
+   52  exit
+   53  nano ~/.zshrc
+   54  exit
+   55  cd Documents
+   56  ls
+   57  cd Projects
+   58  ls
+   59  cd 'Data Wrangling\nq
+   60  cd 'Data Wrangling'
+   61  ls
+   62  source data/bin/activate
+   63  jupyter notebook
+   64  cd Documents
+   65  ls
+   66  cd Projects
+   67  ls
+   68  cd 'Data Wrangling'
+   69  ls
+   70  source data/bin/activate
+   71  jupyter notebook
+   72  cd Documents
+   73  ls
+   74  cd Projects
+   75  ls
+   76  cd 'Data Wrangling'
+   77  source data/bin/activate
+   78  jupyter notebook
+   79  ls
+   80  git init
+   81  git add 'Data Wrangling Project.ipynb'
+   82  git commit -m 're-add'
+   83  git remote add origin https://github.com/Shalom91/Data-Wrangling.git
+   84  git push -u origin master
+   85  exit
+   86  cd Documents
+   87  ls
+   88  cd Resources
+   89  mkdir OOP
+   90  cd OOP
+   91  youtube-dl https://www.youtube.com/watch\?v\=ZDa-Z5JzLYM\&feature\=youtu.be
+   92  cd ~
+   93  nano ~/.zshrc
+   94  exit
+   95  nano ~/.zshrc
+   96  exit
+   97  nano ~/.zshrc
+   98  exit
+   99  nano ~/.zshrc
+  100  exit
+  101  nano ~/.zshrc
+  102  exit
+  103  nano ~/.zshrc
+  104  exit
+  105  cd Documents
+  106  ls
+  107  nano ~/.zshrc
+  108  exit
+  109  cd Documents
+  110  ls]
+  111  ls
+  112  cd Projects
+  113  ls
+  114  cd 'Data Wrangling'
+  115  ls
+  116  source data/bin/activate
+  117  jupyter notebook
+  118  exit
+  119  cd Documents
+  120  ls
+  121  exit
+  122  shutdown
+  123  cd Documents
+  124  ls
+  125  cd Projects
+  126  ls
+  127  cd 'Data Wrangling'
+  128  la
+  129  source data/bin/activate
+  130  jupyter notebook
+  131  cd Documents
+  132  cd Projects
+  133  ls
+  134  cd 'Data Wrangling'
+  135  ls
+  136  source data/bin/activate
+  137  jupyter notebook
+  138  cd Documents
+  139  ls
+  140  cd Projects
+  141  ls
+  142  cd 'Data Wrangling'
+  143  git add .
+  144  git commit --all -m 'fixed assertion statement'
+  145  git remote add origin https://github.com/Shalom91/Data-Wrangling.git
+  146  git push -u origin master
+  147  la
+  148  source data/bin/activate
+  149  jupyter notebook
+  150  ls
+  151  git add 'Data Wrangling Project.ipynb'
+  152  git commit -m 'fixed assert 2'
+  153  git push -u origin master
+  154  git remote add origin https://github.com/c0ldlimit/vimcolors.git
+  155  git remote add origin https://github.com/Shalom91/Data-Wrangling.git
+  156  git push -u origin master
+  157  ls
+  158  la
+  159  git status
+  160  git push
+  161  exit
+  162  cd Documents
+  163  cd Projects
+  164  ls
+  165  cd 'Data Wrangling'
+  166  git init
+  167  ls
+  168  git add 'Data Wrangling Project.ipynb'
+  169  git commit -m 're-add'
+  170  git remote add origin https://github.com/Shalom91/Data-Wrangling.git
+  171  git push -u origin master
+  172  source data/bin/activate
+  173  exit
+  174  sudo fdisk -l
+  175  sudo wipefs --all /dev/sdb
+  176  exit
+  177  sudo fdisk -l
+  178  sudo wipefs --all /dev/sdb
+  179  sudo cfdisk /dev/sdb
+  180  sudo mkfs.vfat -n 'MOLASH' /dev/sdb
+  181  exit
+  182  torbrowser-launcher
+  183  shutdown
+  184  cd Documents
+  185  ls
+  186  cd Projects
+  187  ls
+  188  cd 'Data Wrangling'
+  189  ls
+  190  rm Untitled.ipynb
+  191  ls
+  192  jupyter notebook
+  193  git remote add origin https://github.com/Shalom91/Data-Wrangling.git
+  194  git push -u origin master
+  195  nano README.md
+  196  ls
+  197  git add .
+  198  git status
+  199  git commit --all -m 'Final Submission'
+  200  git status
+  201  git remote add origin https://github.com/Shalom91/Data-Wrangling.git
+  202  git push -u origin master
+  203  source "/home/recruit/Documents/Projects/Data Wrangling/data/bin/activate"
+  204  "/home/recruit/Documents/Projects/Data Wrangling/data/bin/python3.6" -m pip install -U pylint
+  205  "/home/recruit/Documents/Projects/Data Wrangling/data/bin/python3.6" /home/recruit/Documents/stn.py
+  206  cd Documents
+  207  ls
+  208  cd Projects
+  209  ls
+  210  cd 'Data Wrangling'
+  211  ls
+  212  source data/bin/env
+  213  source data/bin/activate
+  214  jupyter notebook
+  215  deactivate
+  216  cd ~/Downloads
+  217  ls
+  218  cd data_wrangling-master
+  219  cd ~
+  220  cd Downloads
+  221  ls
+  222  cd data_wrangling-master
+  223  ls
+  224  jupyter notebook
+  225  exit
+  226  jupter notebook
+  227  jupyter notebook
+  228  pip3 install jupyterthemes
+  229  jupyter notebook
+  230  jt -l
+  231  jt -t solarizeddl
+  232  jt -t solarizedl
+  233  jupyter notebook
+  234  jt -t monokai
+  235  jupyter notebook
+  236  jt -t onedork
+  237  jt -t chesterish
+  238  jt -t grade3
+  239  jt -t gruvboxd
+  240  jt -t gruvboxl
+  241  jt -t oceans16
+  242  jt -t solarizedd
+  243  jt -t grade3
+  244  pip3 install jupyter_contrib_nbextensions
+  245  jupyter contrib nbextension install --system
+  246  jupyter notebook
+  247  jupyter contrib nbextension install --system
+  248  pip3 install jupyter_contrib_nbextensions\njupyter contrib nbextension install --system
+  249  jupyter notebook
+  250  pip3 jupyter contrib nbextension install --system
+  251  exit
+  252  jupyter contrib nbextension install --system
+  253  pip install jupyter_contrib_nbextensions\njupyter contrib nbextension install --system
+  254  jupyter notebook
+  255  jupyter contrib nbextension install --user
+  256  jupyter notebook
+  257  jt -r
+  258  jupyter notebook
+  259  jt -t grade3
+  260  jt -t oceans16
+  261  jt -r
+  262  exit
+  263  shutdown
+  264  cd Documents
+  265  ls
+  266  cd Projects
+  267  ls
+  268  mkdir Linear_Regression
+  269  cd Linear_Regression
+  270  virtualenv -p /usr/bin/python3 regEnv
+  271  source regEnv/bin/activate
+  272  pip3 install pandas
+  273  pip3 install matplotlib
+  274  pip3 install statsmodels
+  275  pip3 install seaborn
+  276  ls
+  277  touch requirements.txt
+  278  pip3 freeze >> requirements.txt
+  279  nano requirements.txt
+  280  jupyter notebook
+  281  deactivate
+  282  cd ~
+  283  pip3 install sklearn
+  284  cd Documents
+  285  ls
+  286  cd Projects
+  287  ls
+  288  cd Linear_Regression
+  289  ls
+  290  source regEnv/bin/activate
+  291  pip3 install sklearn
+  292  pip3 freeze >> requirements.txt
+  293  nano requirements.txt
+  294  cd Documents
+  295  ls
+  296  exit
+  297  cd Projects
+  298  ls
+  299  cd Linear_Regression
+  300  ls
+  301  source regEnv/bin/activate
+  302  jupyter notebook
+  303  ls -a
+  304  touch .gitignore
+  305  nano .gitignore
+  306  ls
+  307  git init
+  308  git add .
+  309  git status
+  310  ls -a
+  311  nano .gitignore
+  312  git rm --cached .
+  313  git rm --cached -r .
+  314  git rm --cached -r -f .
+  315  ls -a
+  316  nana .gitignore
+  317  nano .gitignore
+  318  ls
+  319  ls -a
+  320  git add .
+  321  git status
+  322  git commit -a -m 'First Draft'
+  323  git remote add origin https://github.com/Shalom91/Regression.git\ngit push -u origin master
+  324  git init
+  325  git add .
+  326  git status
+  327  git remote add origin https://github.com/Shalom91/Regression.git\ngit push -u origin master
+  328  undo.git
+  329  git reset HEAD~;
+  330  git reset HEAD~ .
+  331  git reset . HEAD~
+  332  git status
+  333  git commit -a -m 'Second draft'
+  334  git remote add origin https://github.com/Shalom91/Regression.git\ngit push -u origin master
+  335  exit
+  336  cd Doc
+  337  cd Documents
+  338  ls
+  339  cd Projects
+  340  ls
+  341  cd Linear_Regression
+  342  ls
+  343  source regEnv/bin/activate
+  344  jupyter notebook
+  345  exit
+  346  cd Documents
+  347  ls
+  348  cd Projects
+  349  ls
+  350  mkdir regression
+  351  cd regression
+  352  virtualenv -p /usr/bin/python3 reg2
+  353  source reg2/bin/activate
+  354  pip3 install matplotlib
+  355  pip3 install pandas
+  356  pip3 install statsmodels
+  357  pip3 install sklearn
+  358  pip3 install seaborn
+  359  jupyter notebook
+  360  ls 
+  361  touch requirements.txt
+  362  pip3 freeze >> requirements.txt
+  363  nano requirements.txt
+  364  ls -al
+  365  ls -a
+  366  touch .gitignore
+  367  nano .gitignore
+  368  ls -a
+  369  git init
+  370  git add .
+  371  git status
+  372  git reset --all
+  373  git reset -a
+  374  git reset 
+  375  git status
+  376  ls -a
+  377  nano .gitignore
+  378  git add .
+  379  git status
+  380  git commit -m -a 'initial commit'
+  381  git commit -m --all 'initial commit'
+  382  git commit -m -all 'initial commit'
+  383  git commit -a -m 'initial commit'
+  384  git remote add origin https://github.com/Shalom91/New-Regression.git\ngit push -u origin master
+  385  cd Documents
+  386  ls
+  387  cd Projects
+  388  ls
+  389  cd regression
+  390  ls
+  391  source reg2/bin/activate
+  392  jupyter notebook
+  393  cd Documents
+  394  ls
+  395  cd Projects
+  396  ls
+  397  cd Linear_Regression
+  398  ls
+  399  source regEnv/bin/activate
+  400  jupyter notebook
+  401  exit
+  402  git remote add origin https://github.com/Shalom91/New-Regression.git
+  403  git push -u origin master
+  404  git add .
+  405  git commit -a -m 'updated'
+  406  git remote add origin https://github.com/Shalom91/New-Regression.git
+  407  git push -u origin master
+  408  exit
+  409  cd Documents
+  410  cd Projects
+  411  ls
+  412  cd regression
+  413  ls
+  414  source reg2/bin/activate
+  415  jupyter notebook
+  416  jt -t grade3
+  417  jupyter notebook
+  418  git add .
+  419  git commit -a -m 'calculated RMSE'
+  420  git push -u origin master
+  421  git clone https://github.com/vinceliuice/vimix-gtk-themes.git
+  422  cd ~/Vimix-gtk-theme/
+  423  ls
+  424  cd vimix-gtk-themes
+  425  sudo ./Install
+  426  ls
+  427  sudo ./install
+  428  sudo .install
+  429  sudo Install
+  430  exit
+  431  sudo apt install git gtk2-engines-murrine gtk-engines-pixbuf
+  432  git clone https://github.com/vinceliuice/Canta-theme.git
+  433  cd Canta-theme
+  434  ls
+  435  sudo chmod +x install.sh
+  436  sudo ./install.sh
+  437  cd ~/.icons
+  438  git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git\nSource: https://mintguide.org/themes/759-la-capitaine-icon-pack-for-most-desktop-environments.html 
+  439  exit
+  440  nano ~/.zshrc
+  441  exit
+  442  nano ~/.zshrc
+  443  exit
+  444  cd Documents
+  445  cd Projects
+  446  ls
+  447  cd regression
+  448  ls
+  449  source reg2/bin/activate
+  450  jupyter notebook
+  451  jt -r
+  452  git add .
+  453  git commit -a -m 'final submission'
+  454  git push -u origin master
+  455  exit
+  456  cd Documents
+  457  cd Projects
+  458  ls
+  459  mkdir regression_correction
+  460  cd regression
+  461  jupyter notebook
+  462  git add .
+  463  git commit -a -m 'corrected data splitting'
+  464  git push -u origin master
+  465  nano README.md
+  466  git add .
+  467  git commit -a -m 'add Readme file'
+  468  git push -u origin master
+  469  exit
+  470  cd Documents
+  471  ls
+  472  cd Projects
+  473  ls
+  474  cd regression
+  475  ls
+  476  source reg2/bin/activate
+  477  jupyter notebook
+  478  cd Documents
+  479  cd Projects
+  480  ls
+  481  cd OOP_Python
+  482  touch README.md
+  483  nano README.md
+  484  virtualenv -p /usr/bin/python3 oopEnv
+  485  source oopEnv/bin/activate
+  486  pip3 freeze >> requirements.txt
+  487  nano requirements.txt
+  488  code
+  489  touch person.py
+  490  code
+  491  source /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/activate
+  492  /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/python3.6 -m pip install -U pylint
+  493  /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/python3.6 /home/recruit/Documents/Projects/OOP_Python/person.py
+  494  jupyter notebook
+  495  code
+  496  source /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/activate
+  497  /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/python3.6 /home/recruit/Documents/Projects/OOP_Python/person.py
+  498  pip3 install pytest
+  499  /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/python3.6 /home/recruit/Documents/Projects/OOP_Python/person.py
+  500  pytest
+  501  /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/python3.6 /home/recruit/Documents/Projects/OOP_Python/test_person.py
+  502  pytest
+  503  /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/python3.6 /home/recruit/Documents/Projects/OOP_Python/person.py
+  504  ls -a
+  505  pip3 freeze >> requirements.txt
+  506  nano requirements.txt
+  507  rm Person.ipynb
+  508  ls -a
+  509  nano .gitignore
+  510  ls -a
+  511  deactivate
+  512  git init
+  513  git add .
+  514  git status
+  515  git commit -a -m 'inial commit'
+  516  git remote add origin https://github.com/Shalom91/OOP-Python-Person.git\ngit push -u origin master
+  517  exit
+  518  cd Documents
+  519  cd Projects
+  520  ls
+  521  cd regression_correction
+  522  ls
+  523  rm -r regression_correction
+  524  rm -r regression_correction/
+  525  ls
+  526  cd ..
+  527  rm -r regression_correction/
+  528  ls
+  529  cd regression
+  530  ls
+  531  source reg2/bin/activate
+  532  jupyter notebook
+  533  source /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/activate
+  534  /home/recruit/Documents/Projects/OOP_Python/oopEnv/bin/python3.6 /home/recruit/Documents/Projects/OOP_Python/person.py
+  535  pytest
+  536  /usr/local/bin/python3.7 "/home/recruit/Documents/Projects/Testing Functiopns Regression/regression.py"
+  537  pip3 install pandas
+  538  /usr/local/bin/python3.7 "/home/recruit/Documents/Projects/Testing Functiopns Regression/regression.py"
+  539  jupyter notebook
+  540  pip3 install pandas
+  541  exit
+  542  pip3 install matplotlib
+  543  pip3 install scipy
+  544  pip3 install sklearn
+  545  cd Documents
+  546  ls
+  547  cd Projects
+  548  ls
+  549  cd Statistical-Thinking-master
+  550  ls
+  551  mkdir data
+  552  mv salary.csv data/
+  553  ls
+  554  cd data
+  555  ls
+  556  cd ..
+  557  ls 
+  558  git add . 
+  559  git commit -a -m 'placed metadata and data set in separate folder'
+  560  git reset
+  561  git status
+  562  ls -a
+  563  git add data/
+  564  git status
+  565  git commit -m 'placed dataset and metadate in folder'
+  566  git reset HEAD~
+  567  ls -a
+  568  nano .gitignore
+  569  git add .
+  570  git commit -a -m 'placed metadata and dataset in folder'
+  571  git remote add origin https://github.com/Shalom91/Statistical-Thinking.git
+  572  git push -u origin master
+  573  git push --help
+  574  git pull
+  575  git push -u origin master
+  576  git remote add origin https://github.com/Shalom91/Statistical-Thinking.git
+  577  exit
+  578  /usr/local/bin/python3.7 "/home/recruit/Documents/Projects/Testing Functiopns Regression/regression.py"
+  579  cd project
+  580  cd Documents
+  581  cd Projects
+  582  ls
+  583  mkdir
+  584  mkdir dashboard
+  585  cd dashboard
+  586  virtualenv dash
+  587  source dash/bin/activate
+  588  deactivate
+  589  source dash/bin/activate
+  590  pip3 install dash
+  591  pip3 install dash-renderer
+  592  pip3 install dash-html-components
+  593  pip3 install dash-core-components
+  594  pip3 install plotly
+  595  pip3 install plotly --upgrade
+  596  jupyter notebook
+  597  ls
+  598  touch app.py
+  599  jupyter notebook
+  600  python app.py
+  601  cd Documents
+  602  cd Projects
+  603  ls
+  604  cd dashboard
+  605  ls
+  606  source dash/bin/activate
+  607  jupyter notebook
+  608  pip3 install pandas
+  609  python app.py
+  610  exit
+  611  pip3 install jupyter_dashboards
+  612  jupyter dashboards quick-setup --sys-prefix
+  613  jupyter nbextension install --py jupyter_dashboards --sys-prefix
+  614  jupyter nbextension enable --py jupyter_dashboards --sys-prefix
+  615  jupyter notebook
+  616  exit
+  617  jupyter dashboards quick-setup --user
+  618  jupyter notebook
+  619  pip3 install ipywidgets 
+  620  jupyter notebook
+  621  jupyter nbextension enable --py widgetsnbextension
+  622  exit
+  623  jupyter notebook
+  624  cd Desktop
+  625  ls
+  626  rm tips.csv Untitled.ipynb
+  627  cd ~/Documents
+  628  ls
+  629  cd Tempo
+  630  ls
+  631  cd ..
+  632  rm -r Tempo/
+  633  cd ..
+  634  ls
+  635  cd Documents
+  636  ls
+  637  cd Projects
+  638  ls
+  639  cd dashboard
+  640  ls
+  641  source dash/bin/activate
+  642  pip3 freeze
+  643  deactivate
+  644  cd ..
+  645  ls
+  646  mkdir Notebook_dashboard
+  647  cd Notebook_dashboard
+  648  ls
+  649  virtualenv dash_e
+  650  source dash_e
+  651  source dash_e/bin/activate
+  652  pip3 install pandas
+  653  pip3 install matplotlib
+  654  pip3 install ipywidgets
+  655  jupyter notebook
+  656  pip3 install seaborn
+  657  jupyter notebook
+  658  pip3 install qgrid
+  659  jupyter notebook
+  660  cd Documents
+  661  ls
+  662  cd Projects
+  663  ls
+  664  cd Notebook_dashboard
+  665  ls
+  666  source dash_e/bin/activate
+  667  juputer notebook
+  668  jupyter notebook
+  669  cd Documents
+  670  ls
+  671  cd pro
+  672  cd Projects
+  673  ls
+  674  cd Notebook_dashboard
+  675  ls
+  676  source dash_e/bin/activate
+  677  ls
+  678  jupyter notebook
+  679  cd Documents
+  680  cd Projects
+  681  ls
+  682  cd Notebook_dashboard
+  683  ls
+  684  source dash_e/bin/activate
+  685  jupyter notebook
+  686  pip3 install voila
+  687  voila Untitled.ipynb
+  688  jupyter notebook
+  689  ls
+  690  touch requirements.txt
+  691  pip3 freeze >> requirements.txt
+  692  nano requirements.txt
+  693  ls -a
+  694  nano .gitignore
+  695  gitinit
+  696  git init
+  697  git add .
+  698  git commit -a -m 'initial commit'
+  699  git remote add origin https://github.com/Shalom91/Dashboard-Insurance.git\ngit push -u origin master
+  700  deactivate
+  701  exit
+  702  cd Documents
+  703  cd Projects
+  704  ls
+  705  cd Notebook_dashboard
+  706  ls
+  707  source dash/bin/activate
+  708  source dash_e/bin/activate
+  709  viola Insurance_Dashboard.ipynb
+  710  voila Insurance_Dashboard.ipynb
+  711  exit
+  712  cd Documents
+  713  cd Projects
+  714  ls
+  715  cd Notebook_dashboard
+  716  ls
+  717  source dash_e/bin/activate
+  718  jupyter notebook
+  719  cd Documents
+  720  cd Projects
+  721  ls
+  722  cd Notebook_dashboard
+  723  ls
+  724  source dash_e/bin/activate
+  725  jupyter notebook
+  726  pip3 install plotly
+  727  jupyter notebook
+  728  cd Documents
+  729  cd Projects
+  730  ls
+  731  cd Notebook_dashboard
+  732  ls
+  733  source dash_e/bin/activate
+  734  jupyter notebook
+  735  pip3 install ipypivot
+  736  jupyter notebook
+  737  cd Documents
+  738  cd Projects
+  739  ls
+  740  cd Notebook_dashboard
+  741  ls
+  742  source dash_e/bin/activate
+  743  jupyter notebool
+  744  jupyter notebook
+  745  git add .
+  746  git commit -a -m 'updated viz and added pivot table'
+  747  git push -u origin master
+  748  ls
+  749  voila Insurance_Dashboard.ipynb
+  750  exit
+  751  for filetype in gif jpg png; do echo $filetype; done
+  752  cd Desktop
+  753  ls
+  754  git clone https://github.com/Shalom91/Dashboard-Insurance.git
+  755  ls
+  756  cd Dashboard-Insurance
+  757  ls
+  758  virtualenv dash
+  759  source dash/bin/activate
+  760  pip3 install -r requirements.txt
+  761  voila Insurance_Dashboard.ipynb
+  762  deactivate
+  763  exit
+  764  python
+  765  htop
+  766  exit
+  767  source dash/bin/activate
+  768  voila Insurance_Dashboard.ipynb
+  769  jupyter notebook
+  770  cd Desktop
+  771  git clone https://github.com/Umuzi-org/candidate_recommender.git
+  772  jupyter notebook
+  773  pip3 install xlrd
+  774  exit
+  775  jupyter notebook
+  776  pip3 install nashpy
+  777  python3
+  778  jupyter notebook
+  779  sudo snap install freemind
+  780  exit
+  781  pip3 install voila-gridstack
+  782  cd Desktop
+  783  ls
+  784  cd candidate_recommender
+  785  ls
+  786  cd ..
+  787  cd Dashboard-Insurance
+  788  ls
+  789  source dash/bin/activate
+  790  deactivate
+  791  source dash/bin/activate
+  792  pip3 install voila-gridstack
+  793  pip3 freeze >> requirements.txt
+  794  exit
+  795  git pull
+  796  git merge
+  797  git merge master
+  798  jupyter notebook
+  799  cd Desktop
+  800  mkdir test_dashnote
+  801  cd test_dashnote
+  802  jupyter notebook
+  803  exit
+  804  virtualenv databricks
+  805  source databricks/bin/activate
+  806  jupyter notebook
+  807  pip3 import IPython
+  808  pip3 install IPython
+  809  jupyter notebook
+  810  cd Desktop
+  811  ls
+  812  cd Dashboard-Insurance
+  813  ls
+  814  source dash/bin/activate
+  815  jupyter notebook
+  816  pip3 install pandas
+  817  pip3 install matplotlib
+  818  pip3 install ipywidgets
+  819  pip3 install ipypivot
+  820  jupyter notebook
+  821  pip3 install seaborn
+  822  jupyter notebook
+  823  cd ..
+  824  cd ~/Desktop
+  825  ls
+  826  cd Dashboard-Insurance
+  827  ls
+  828  git init
+  829  git ls -a
+  830  la
+  831  nano .gitignore
+  832  touch README.md
+  833  source dash/bin/activate
+  834  pip3 freeze >> requirements.txt
+  835  nano README.md
+  836  git commit .
+  837  git commit -am 'submission'
+  838  git push
+  839  exit
+  840  cd Desktop
+  841  ls
+  842  cd candidate_recommender
+  843  git pull
+  844  git merge master
+  845  git pull
+  846  git merge master
+  847  jupyter notebook
+  848  cd ~
+  849  pip3 install pandas-profiling
+  850  cd Documents
+  851  ls
+  852  cd Projects
+  853  ls
+  854  cd Multiple_regression
+  855  ls
+  856  virtualenv multi
+  857  source multi/bin/activate
+  858  pip3 install pandas-profiling
+  859  pip3 freeze
+  860  pip3 install sklearn
+  861  pip3 install statsmodels
+  862  pip3 freeze >> requirements.txt
+  863  nano README.md
+  864  ls -a
+  865  nano .gitignore
+  866  jupyter notebook
+  867  cd Desktop
+  868  ls
+  869  cd candidate_recommender
+  870  jupyter notebook
+  871  exit
+  872  ls -a
+  873  nano README.md
+  874  nano requirements.txt
+  875  nano .gitignore
+  876  git init
+  877  git add .
+  878  git status
+  879  git commit -am 'initial commit'
+  880  git push
+  881  git remote add origin https://github.com/Shalom91/13_20_12.git\ngit push -u origin master
+  882  cd ~/Desktop
+  883  ls
+  884  cd candidate_recommender
+  885  deactivate
+  886  cd notebooks
+  887  jupyter notebooks
+  888  jupyter notebook
+  889  exit
+  890  cd Desktop
+  891  cd candidate_recommender
+  892  ls
+  893  git pull
+  894  git merge
+  895  git merge master
+  896  git branch
+  897  git checkout -b feature/LabelEncoder
+  898  git branch
+  899  git status
+  900  jupyter notebook
+  901  cd Desktop
+  902  ls
+  903  cd candidate_recommender
+  904  ls
+  905  git branch
+  906  cd notebooks
+  907  jupyter notebook
+  908  git branch
+  909  git status
+  910  git add model_selection.ipynb\n
+  911  git status
+  912  git commit -m 'outline of two model-agnostic methods to be tested on Random Forest Model'
+  913  git push
+  914  git push --set-upstream origin feature/LabelEncoder\n
+  915  jupyter notebook
+  916  git status
+  917  git add model_selection.ipynb\n
+  918  git commit -m 'updated reference list on research done on model-agnostic methods'
+  919  git push
+  920  git branch
+  921  git status
+  922  git push
+  923  exit
+  924  pwd
+  925  ld
+  926  ls
+  927  mkdir multi
+  928  cd multi
+  929  ls
+  930  pwd
+  931  git init
+  932  git clone https://github.com/Mahnatse-rgb/Simple-linear-regression.git
+  933  ls
+  934  jupyter notebook
+  935  ls virtual env
+  936  lsvirtualenv -b
+  937  bash
+  938  jupyter notebook
+  939  clear
+  940  cd Downloads
+  941  ls
+  942  clear
+  943  ls
+  944  cd Downloads
+  945  chmod 600 ~/Downloads/qwikLABS-L630-22173669.pem
+  946  ssh -i ~/Downloads/qwikLABS-L630-22173669.pem  student-04-d6ba9ac584de@34.66.45.117
+  947  cp file.txt badfile.txt
+  948  md5sum badfile.txt > badfile.txt.md5
+  949  clear
+  950  cd Downloads
+  951  chmod 600 ~/Downloads/qwikLABS-L629-22174876.pem
+  952  ssh -i ~/Downloads/qwikLABS-L629-22174876.pem\n student-01-04673e22ff14@104.154.246.33
+  953  chmod 600 ~/Downloads/qwikLABS-L631-22174941.pem
+  954  ssh -i ~/Downloads/qwikLABS-L631-22174941.pem student-02-f33c3f77c656@35.192.140.158
+  955  sudo tcpdump -i eth0 -vn
+  956  sudo tcpdump -i eth0 -vn host 8.8.8.8 and port 53
+  957  dig @8.8.8.8 A example.com
+  958  sudo tcpdump -i eth0 port 80 -w http.pcap
+  959  curl example.com
+  960  tcpdump -r http.pcap -nv
+  961  sudo tcpdump -i eth0
+  962  clear
+  963  sudo tcpdump -i eth0
+  964  clear
+  965  chmod 600 ~/Downloads/qwikLABS-L631-22174941.pem
+  966  ssh -i ~/Downloads/qwikLABS-L631-22174941.pem  student-02-f33c3f77c656@35.192.140.158
+  967  sudo tcpdump -i eth0 -vn
+  968  sudo tcpdump -i eth0 -vn host 8.8.8.8 and port 53
+  969  dig @8.8.8.8 A example.com
+  970  sudo tcpdump -i eth0 port 80 -w http.pcap
+  971  -w
+  972  80
+  973  curl example.com
+  974  tcpdump -r http.pcap -nv
+  975  dst
+  976  sudo tcpdump -i eth0 -vn
+  977  -v
+  978  -V
+  979  sudo tcpdump -i eth0 -vn host 8.8.8.8 and port 53
+  980  chmod 600 ~/Downloads/qwikLABS-L631-22286985.pem
+  981  ssh -i ~/Downloads/qwikLABS-L631-22286985.pem student-03-cac1be117977@34.121.247.216
+  982  CLEAR
+  983  clear
+  984  echo 'deb http://ftp.debian.org/debian stretch-backports main' | sudo tee --append /etc/apt/sources.list.d/stretch-backports.list >> /dev/null
+  985  sudo apt update
+  986  sudo apt install -t stretch-backports remmina remmina-plugin-rdp remmina-plugin-secret remmina-plugin-spice
+  987  sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+  988  sudo apt update
+  989  sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret
+  990  ^[[200~chmod 600 ~/Downloads/qwikLABS-L642-22348681.pem
+  991  ssh -i ~/Downloads/qwikLABS-L642-22348681.pem student-04-8950fbf2fea8@35.188.22.173
+  992  lsblk
+  993  df -h
+  994  sudo fdisk -l
+  995  sudo fdisk -l /dev/sdb
+  996  sudo fdisk /dev/sudo
+  997  sudo fdisk /dev/sda
+  998  chmod 600 ~/Downloads/qwikLABS-L642-22348681.pem
+  999  ssh -i ~/Downloads/qwikLABS-L642-22348681.pem student-04-8950fbf2fea8@35.188.22.173
+ 1000  chmod 600 ~/Downloads/qwikLABS-L642-22350184.pem
+ 1001  ssh -i ~/Downloads/qwikLABS-L642-22350184.pem student-03-02a5eead500e@34.67.30.123
+ 1002  clear
+ 1003  chmod 600 ~/Downloads/qwikLABS-L2386-23954444.pem
+ 1004  ssh -i ~/Downloads/qwikLABS-L2386-23954444.pem student-00-a28f9c426b07@104.198.177.117
+ 1005  chmod 600 ~/Downloads/qwikLABS-L2386-23956007.pem
+ 1006  ssh -i ~/Downloads/qwikLABS-L2386-23956007.pem @student-02-a646c98380ed@104.198.213.165
+ 1007  cd scripts
+ 1008  clear
+ 1009  cd scripts
+ 1010  chmod 600 ~/Downloads/qwikLABS-L2386-23956118.pem
+ 1011  ssh -i ~/Downloads/qwikLABS-L2386-23956118.pem student-03-77de0ce20152@34.122.105.142
+ 1012  cd
+ 1013  ls -a
+ 1014  git init
+ 1015  ls -a
+ 1016  git status
+ 1017  touch README.md
+ 1018  ls -a
+ 1019  git status
+ 1020  git log
+ 1021  git add
+ 1022  git status
+ 1023  chmod 600 ~/Downloads/qwikLABS-L2386-24053583.pem
+ 1024  ssh -i ~/Downloads/qwikLABS-L2386-24053583.pem student-04-61f80ba36675@35.222.13.251
+ 1025  cd update
+ 1026  sudo update
+ 1027  sudo upgrade
+ 1028  clear
+ 1029  chmod 600 ~/Downloads/qwikLABS-L2386-24053583.pem
+ 1030  ssh -i ~/Downloads/qwikLABS-L2386-24053583.pem student-04-61f80ba36675@35.222.13.251
+ 1031  chmod 600 ~/Downloads/qwikLABS-L2386-24053949.pem
+ 1032  ssh -i ~/Downloads/qwikLABS-L2386-24053949.pem student-02-75d3d7fb9942@35.226.102.129
+ 1033  cd Desktop
+ 1034  ls
+ 1035  cd git basics exercises
+ 1036  cd git-basics-exercises
+ 1037  ls -a
+ 1038  git init
+ 1039  ls -a
+ 1040  git status
+ 1041  touch README.md
+ 1042  ls -a
+ 1043  git status
+ 1044  git log
+ 1045  git add
+ 1046  git status
+ 1047  git reset
+ 1048  git status
+ 1049  git commit -m "initial commit"
+ 1050  git log
+ 1051  nano README.md
+ 1052  cat README.md
+ 1053  git stats
+ 1054  git commit -m "second commit"
+ 1055  git commit -m "third commit"
+ 1056  git log
+ 1057  git checkout
+ 1058  cat README.md
+ 1059  git checkout main
+ 1060  cat README.md
+ 1061  git checkout
+ 1062  git branch
+ 1063  cd Desktop
+ 1064  ls
+ 1065  cd git-basics-exercises
+ 1066  ls -a
+ 1067  git init
+ 1068  ls -a
+ 1069  git status
+ 1070  touch README.md
+ 1071  ls -a
+ 1072  git status
+ 1073  git log
+ 1074  git add
+ 1075  git add.
+ 1076  git status
+ 1077  git add .
+ 1078  git status
+ 1079  git reset
+ 1080  git status
+ 1081  git commit -m "initial commit"
+ 1082  git log
+ 1083  nano README.md
+ 1084  cat README.md
+ 1085  git stats
+ 1086  git commit -m "second commit"
+ 1087  git commit -m "third commit"
+ 1088  git log
+ 1089  sudo update
+ 1090  cd Desktop
+ 1091  ls
+ 1092  cd git-basics-exercises
+ 1093  ls -a
+ 1094  git init
+ 1095  ls -a
+ 1096  git status
+ 1097  touch README.md
+ 1098  ls -a
+ 1099  git reset
+ 1100  git status
+ 1101  git log
+ 1102  git add .
+ 1103  git status
+ 1104  git commit -m "initial commit"
+ 1105  git log
+ 1106  cd Desktop
+ 1107  ls
+ 1108  cd git-basics-exercises
+ 1109  git init
+ 1110  git add*
+ 1111  git commit -m "first commit"
+ 1112  git remote add origin https://github.com/Yanga24/Git-Basics-Exercises.git
+ 1113  git push -u origin master
+ 1114  #!/usr/bin/env python3\nimport sys\nimport os\nimport re\n\n\ndef error_search(log_file):\n  error = input("What is the error? ")\n  returned_errors = []\n  with open(log_file, mode='r',encoding='UTF-8') as file:\n    for log in  file.readlines():\n      error_patterns = ["error"]\n      for i in range(len(error.split(' '))):\n        error_patterns.append(r"{}".format(error.split(' ')[i].lower()))\n      if all(re.search(error_pattern, log.lower()) for error_pattern in error_patterns):\n        returned_errors.append(log)\n    file.close()\n  return returned_errors\n\n  \ndef file_output(returned_errors):\n  with open(os.path.expanduser('~') + '/data/errors_found.log', 'w') as file:\n    for error in returned_errors:\n      file.write(error)\n    file.close()\nif __name__ == "__main__":\n  log_file = sys.argv[1]\n  returned_errors = error_search(log_file)\n  file_output(returned_errors)\n  sys.exit(0)
+ 1115  sudo apt update
+ 1116  sudo apt upgrade
+ 1117  clear
+ 1118  cd Desktop
+ 1119  ls
+ 1120  cd git-basics-exercises
+ 1121  ls -a
+ 1122  git init
+ 1123  ls -a
+ 1124  git status
+ 1125  touch README.md
+ 1126  ls -a
+ 1127  git reset
+ 1128  git status
+ 1129  git log
+ 1130  cd Desktop
+ 1131  ls
+ 1132  cd git-basics-exercises
+ 1133  git add .
+ 1134  git status
+ 1135  git reset
+ 1136  git commit -m "initial commit"
+ 1137  nano README.md
+ 1138  cat README.md
+ 1139  git stats
+ 1140  git commit -m "second commit"
+ 1141  git commit -m "third commit"
+ 1142  git log
+ 1143  cd Desktop
+ 1144  ls
+ 1145  cd git-basics-exercises
+ 1146  git checkout
+ 1147  cat README.md
+ 1148  git checkout main
+ 1149  cat README.md
+ 1150  git checkout-b "milkshake-flavours"
+ 1151  git commit -m "milkshake-flavours"
+ 1152  git branch
+ 1153  cd Desktop
+ 1154  ls
+ 1155  cd git-basics-exercises
+ 1156  nano milkshakes.md
+ 1157  git status
+ 1158  git commit -m "added initial flavours"
+ 1159  git checkout -b "history"
+ 1160  git log
+ 1161  cd Desktop
+ 1162  ls
+ 1163  cd git-basics-exercises
+ 1164  git branch
+ 1165  cd Desktop
+ 1166  ls
+ 1167  cd git-basics-exercises
+ 1168  git commit -m "added history"
+ 1169  git commit -m "random readme changes"
+ 1170  cat README.md
+ 1171  rm README.md\necho "booya" > README.md
+ 1172  git commit -m "rewrote readme"
+ 1173  git checkout main\nls
+ 1174  README.md
+ 1175  git log
+ 1176  cd Desktop
+ 1177  ls
+ 1178  cd git-basics-exercises
+ 1179  git init
+ 1180  git add *
+ 1181  git commit -m "first commit"
+ 1182  git push -u origin master
+ 1183  chmod 600 ~/Downloads/qwikLABS-L2386-24087429.pem
+ 1184  ssh -i ~/Downloads/qwikLABS-L2386-24087429.pem student-01-51d47f28a707@34.69.232.25
+ 1185  chmod 600 ~/Downloads/qwikLABS-L2383-24088147.pem
+ 1186  ssh -i ~/Downloads/qwikLABS-L2383-24088147.pem student-00-d8ef400f70a3@35.222.213.12
+ 1187  chmod 600 ~/Downloads/qwikLABS-L2383-24088147.pem
+ 1188  ssh -i ~/Downloads/qwikLABS-L2383-24088147.pem student-00-d8ef400f70a3@35.222.213.12
+ 1189  chmod 600 ~/Downloads/qwikLABS-L2383-24088147.pem
+ 1190  ssh -i ~/Downloads/qwikLABS-L2383-24088147.pem student-00-d8ef400f70a3@35.222.213.12
+ 1191  sudo apt update
+ 1192  sudo apt upgrade
+ 1193  cd Desktop
+ 1194  ls
+ 1195  cd git-basics-exercises
+ 1196  ls -a
+ 1197  git init
+ 1198  ls -a
+ 1199  touch README.md
+ 1200  ls -a
+ 1201  git status
+ 1202  git log
+ 1203  chmod 600 ~/Downloads/qwikLABS-L2383-24113886.pem
+ 1204  ssh -i ~/Downloads/qwikLABS-L2383-24113886.pem student-03-a715025803e8@35.202.249.225
+ 1205  chmod 600 ~/Downloads/qwikLABS-L2383-24114962.pem
+ 1206  ssh -i ~/Downloads/qwikLABS-L2383-24114962.pem student-03-b35df01e3e60@35.202.251.117
+ 1207  chmod 600 ~/Downloads/qwikLABS-L2383-24114962.pem
+ 1208  ssh -i ~/Downloads/qwikLABS-L2383-24114962.pem student-03-b35df01e3e60@35.202.251.117
+ 1209  chmod 600 ~/Downloads/chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 1210  clear
+ 1211  chmod 600 ~/Downloads/qwikLABS-L2379-24116199.pem
+ 1212  ssh -i ~/Downloads/qwikLABS-L2379-24116199.pem student-02-a8f00ca46ccc@34.121.85.166
+ 1213  chmod 600 ~/Downloads/qwikLABS-L2380-24117160.pem
+ 1214  ssh -i ~/Downloads/qwikLABS-L2380-24117160.pem student-01-1ee7fd04e44f@34.67.174.155
+ 1215  cd Desktop
+ 1216  ls
+ 1217  cd git-basics-exercises
+ 1218  ls -a
+ 1219  git init
+ 1220  ls -a
+ 1221  git status
+ 1222  touch README.md
+ 1223  ls -a
+ 1224  git status
+ 1225  git log
+ 1226  cd Desktop
+ 1227  ls
+ 1228  cd git-basics-exercises
+ 1229  nano README.md
+ 1230  cd Desktop
+ 1231  ls
+ 1232  cd git-basics-exercises
+ 1233  nano README.md
+ 1234  y
+ 1235  cat README.md
+ 1236  git stats
+ 1237  git commit -m "second commit"
+ 1238  git commit -m "third commit"
+ 1239  git log
+ 1240  git checkout
+ 1241  cat README.md
+ 1242  git checkout main
+ 1243  cat README.md
+ 1244  git checkout
+ 1245  git branch
+ 1246  git checkout -b "milkshake-flavours"
+ 1247  git branch
+ 1248  nano milkshakes.md
+ 1249  git status
+ 1250  git add .
+ 1251  git commit -m "added initial flavours"
+ 1252  git commit -m "history"
+ 1253  git log
+ 1254  git branch
+ 1255  history > history.txt
+ 1256  git commit -m "added history"
+ 1257  git log
+ 1258  git commit -m "random readme changes"
+ 1259  history
+ 1260  cat README.md
+ 1261  rm README.md\necho "booya" > README.md
+ 1262  git commit -m "rewrote readme"
+ 1263  git checkout main\nls
+ 1264  README.md
+ 1265  git log
+ 1266  git checkout milkshake-flavours\nls
+ 1267  git log
+ 1268  git checkout history\nls
+ 1269  git log
+ 1270  git checkout main
+ 1271  git merge milkshake-flavours
+ 1272  ls
+ 1273  git log
+ 1274  ls
+ 1275  git log
+ 1276  git checkout history
+ 1277  git log
+ 1278  ...
+ 1279  git checkout milkshake-flavours
+ 1280  git log
+ 1281  history
+ 1282  git log
+ 1283  git init
+ 1284  git add*
+ 1285  git add *
+ 1286  git commit -m "first commit"
+ 1287  git init
+ 1288  git add *
+ 1289  ...
+ 1290  git clone https://github.com/Umuzi-org/Yanga-Kanzi-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1291  git checkout -b how_repo_projects_works
+ 1292  touch file.md
+ 1293  nano file.md
+ 1294  git status
+ 1295  cd Yanga-Kanzi-606-tilde-project-tutorial-how-repo-projects-work-
+ 1296  git checkout -b how_repo_projects_works
+ 1297  touch ile.md
+ 1298  rm ile.md
+ 1299  touch file.md
+ 1300  nano file.md
+ 1301  git status
+ 1302  git init
+ 1303  git add .
+ 1304  git commit -m "initial commit"
+ 1305  git push 
+ 1306  git push --set-upstream origin how_repo_project_works
+ 1307  git checkout how-repo-work
+ 1308  touch file.md
+ 1309  nano file.md
+ 1310  git init
+ 1311  git add .
+ 1312  git commit -m "initail commit"
+ 1313  git commit -m "initial commit"
+ 1314  git push 
+ 1315  ls
+ 1316  rm 'how repo work'
+ 1317  git status
+ 1318  git add .
+ 1319  git commit -m "discarding changes"
+ 1320  git push
+ 1321  cd Desktop
+ 1322  ls
+ 1323  cd git-basics-exercises
+ 1324  ls -a
+ 1325  git init
+ 1326  ls -a
+ 1327  git status
+ 1328  touch README.md
+ 1329  ls -a
+ 1330  git status
+ 1331  git clone https://github.com/Yanga24/git-basics-exercises.git
+ 1332  cd Desktop
+ 1333  ls
+ 1334  cd git-basics-exercises
+ 1335  ls -a
+ 1336  git init
+ 1337  ls -a
+ 1338  git status
+ 1339  touch README.md
+ 1340  ls -a
+ 1341  git status
+ 1342  git log
+ 1343  git add
+ 1344  git add .
+ 1345  git status
+ 1346  git reset
+ 1347  git status
+ 1348  git commit -m "initial commit"
+ 1349  git log
+ 1350  clear
+ 1351  ls -a
+ 1352  git init
+ 1353  ls -a
+ 1354  git status
+ 1355  touch README.md
+ 1356  ls -a
+ 1357  git status
+ 1358  git log
+ 1359  cd Desktop
+ 1360  ls
+ 1361  cd git-basics-exercises
+ 1362  sudo apt update
+ 1363  sudo apt upgrade
+ 1364  clear
+ 1365  cd Desktop
+ 1366  ls
+ 1367  cd git-basics-exercises
+ 1368  ls -a
+ 1369  git init
+ 1370  ls -a
+ 1371  git status
+ 1372  touch README.md
+ 1373  ls -a
+ 1374  git status
+ 1375  git log
+ 1376  git add
+ 1377  git add .
+ 1378  git reset
+ 1379  git status
+ 1380  git commit -m "initial commit"
+ 1381  git log
+ 1382  nano README.md
+ 1383  cat README.md
+ 1384  git stats
+ 1385  git commit -m "second commit"
+ 1386  gi commit -m "third commit"
+ 1387  git commit -m "third commit"
+ 1388  git log
+ 1389  git init
+ 1390  git add *
+ 1391  git commit -m "first commit"
+ 1392  git push -u origin master
+ 1393  cd git-basics-exercises
+ 1394  ls -a
+ 1395  cd git-basics-exercises
+ 1396  ls -a
+ 1397  git init
+ 1398  ls -a
+ 1399  git status
+ 1400  touch README.md
+ 1401  ls -a
+ 1402  git status
+ 1403  chmod 600 ~/Downloads/qwikLABS-L2387-24152988.pem
+ 1404  ssh -i ~/Downloads/qwikLABS-L2387-24152988.pem student-00-d9826a8c9a58@104.197.25.213
+ 1405  cd Desktop
+ 1406  ls
+ 1407  cd git-basics-exercises
+ 1408  cd Desktop
+ 1409  ls
+ 1410  cd bootcamp-writing-assigment
+ 1411  git checkout -b bootcamp-writing-assigment
+ 1412  touch file.md
+ 1413  nano.md
+ 1414  nano file.md
+ 1415  git status
+ 1416  git add .
+ 1417  clear
+ 1418  cd Desktop
+ 1419  ls
+ 1420  cd g
+ 1421  cd git-basics-exercises
+ 1422  ls -a
+ 1423  git init
+ 1424  ls -a
+ 1425  git status
+ 1426  touch README.md
+ 1427  ls -a
+ 1428  git status
+ 1429  git log
+ 1430  git add .
+ 1431  git status
+ 1432  git reset
+ 1433  git status
+ 1434  git commit -m "initial commit"
+ 1435  git log
+ 1436  nano README.md
+ 1437  cat README.md
+ 1438  git stats
+ 1439  git commit -m "second commit"
+ 1440  git commit -m "third commit"
+ 1441  git log
+ 1442  git checkout
+ 1443  cat README.md
+ 1444  git checkout main
+ 1445  cat README.md
+ 1446  git checkout -b milkshake-flavours
+ 1447  git branch
+ 1448  nano milkshakes.md
+ 1449  git status
+ 1450  git commit -m "added initial flavours"
+ 1451  history
+ 1452  git log
+ 1453  git branch
+ 1454  history > history.txt
+ 1455  git commit -m "added history"
+ 1456  git log
+ 1457  git commit -m "random readme changes"
+ 1458  history
+ 1459  cat README.md
+ 1460  echo "booya" > README.md
+ 1461  git commit -m "rewrote readme"
+ 1462  git checkout main
+ 1463  ls
+ 1464  git log
+ 1465  git checkout milkshake-flavours
+ 1466  ls
+ 1467  git log
+ 1468  git checkout history
+ 1469  ls
+ 1470  git log
+ 1471  git merge milkshake-flavours
+ 1472  ls
+ 1473  git log
+ 1474  git checkout history
+ 1475  git checkout Y
+ 1476  git init
+ 1477  git add *
+ 1478  git commit -m "first commit"
+ 1479  git push origin master
+ 1480  git push
+ 1481  git push --set-upstream origin git-basics-exercises
+ 1482  git push -u origin master
+ 1483  git remote add origin https://github.com/Yanga24/git-basics-exercises.git
+ 1484  git push -u origin master
+ 1485  chmod 600 ~/Downloads/qwikLABS-L2377-24168189.pem
+ 1486  ssh -i ~/Downloads/qwikLABS-L2377-24168189.pem student-00-eecf548b21f6@104.154.166.180
+ 1487  chmod 600 ~/Downloads/qwikLABS-L2398-24168750.pem
+ 1488  ssh -i ~/Downloads/qwikLABS-L2398-24168750.pem student-01-d7e51fdb1b70@34.70.2.120
+ 1489  chmod 600 ~/Downloads/qwikLABS-L2398-24168750 (1).pem
+ 1490  chmod 600 ~/Downloads/qwikLABS-L2398-24168750.pem
+ 1491  ssh -i ~/Downloads/qwikLABS-L2398-24168750.pem student-01-d7e51fdb1b70@34.70.2.120
+ 1492  clear
+ 1493  #!/usr/bin/env python3
+ 1494  clera
+ 1495  cd Desktop
+ 1496  ls
+ 1497  cd ..
+ 1498  cd Desktop
+ 1499  cd ..
+ 1500  chmod 600 ~/Downloads/qwikLABS-L2398-24168750.pem
+ 1501  ssh -i ~/Downloads/qwikLABS-L2398-24168750.pem student-01-d7e51fdb1b70@34.70.2.120
+ 1502  chmod 600 ~/Downloads/qwikLABS-L2398-24170401.pem
+ 1503  ssh -i ~/Downloads/qwikLABS-L2398-24170401.pem student-04-1554ca9edf97@104.197.99.65
+ 1504  chmod +x ticky_check.py
+ 1505  cd git-basics-exercises
+ 1506  git init
+ 1507  touch README.md
+ 1508  git add .
+ 1509  git commit -m "initial commit"
+ 1510  nano README.md
+ 1511  git add .
+ 1512  git commit -m "second commit"
+ 1513  nano README.md
+ 1514  git add .
+ 1515  git commit -m "third commit"
+ 1516  git log
+ 1517  git checkout c768572528ee3dc24b575564c4d6a6171d497ae6
+ 1518  git checkout master
+ 1519  git branch
+ 1520  git checkout -m milshakeflavours
+ 1521  git checkout -m "milkshakeflavours"
+ 1522  nano milkshakeflavours
+ 1523  git add .
+ 1524  git commit -m "initial flavours"
+ 1525  git checkout master
+ 1526  git checkout -b "history"
+ 1527  history > history.txt
+ 1528  git add .
+ 1529  git commit -b "history"
+ 1530  git git checkout milshakeflavours
+ 1531  nano README.md
+ 1532  git commit -m "random readme changes"
+ 1533  git checkout history
+ 1534  echo "booya" > README.md
+ 1535  git add .
+ 1536  git commit -m "rewrote readme"
+ 1537  git checkout master
+ 1538  git git log
+ 1539  git log
+ 1540  git checkout master
+ 1541  ls
+ 1542  git log
+ 1543  git merge history
+ 1544  git checkout history
+ 1545  git status
+ 1546  git add .
+ 1547  git status
+ 1548  git checkout master
+ 1549  ls
+ 1550  git commit -m "third commit"
+ 1551  git merge history
+ 1552  git status
+ 1553  git add . READ.md
+ 1554  git commit -m "a"
+ 1555  git status
+ 1556  git merge history
+ 1557  git checkout history
+ 1558  git log
+ 1559  git checkout milshake
+ 1560  git checkout history
+ 1561  git merge master
+ 1562  git init
+ 1563  git add *
+ 1564  git commit -m "second commit"
+ 1565  git checkout history
+ 1566  git commit 
+ 1567  git push
+ 1568  git push  git push --set-upstream origin history
+ 1569  git push 
+ 1570  git checkout milkshake
+ 1571  git checkout master
+ 1572  git checkout milkshakeflavours
+ 1573  git push
+ 1574  git checkout history
+ 1575  git push
+ 1576  git push git push --set-upstream origin history\n
+ 1577  git checkout milkshakeflavours
+ 1578  git push
+ 1579  git init
+ 1580  git add *
+ 1581  git commit -m "first commit"
+ 1582  git push -u origin master
+ 1583  git pull
+ 1584  git push
+ 1585  git push  git push --set-upstream origin history\n
+ 1586  chmod 600 ~/Downloads/qwikLABS-L2381-24275540.pem
+ 1587  ssh -i ~/Downloads/qwikLABS-L2381-24275540.pem student-00-59146a183ba1@35.226.176.153\n
+ 1588  chmod 600 ~/Downloads/qwikLABS-L2398-24280050.pem
+ 1589  ssh -i ~/Downloads/qwikLABS-L2398-24280050.pem student-04-3054695ec6ec@35.238.36.247\n
+ 1590  README.md
+ 1591  nano ticky_check.py
+ 1592  chmod +x ticky_check.py
+ 1593  ./ticky_check.py
+ 1594  nano ticky_check.py
+ 1595  chmod +x ticky_check.py
+ 1596  ./ticky_check.py
+ 1597  nano ticky_check.py
+ 1598  ./ticky_check.py
+ 1599  nano ticky_check.py
+ 1600  ./ticky_check.py
+ 1601  nano ticky_check.py
+ 1602  chmod +x ticky_check.py
+ 1603  ./ticky_check.py
+ 1604  nano ticky_check.py
+ 1605  chmod +x ticky_check.py
+ 1606  ./ticky_check.py
+ 1607  ./csv_to_html.py error_message.csv /var/www/html/Yanga.html
+ 1608  cd git-basics-exercises
+ 1609  touch README.md
+ 1610  git add .
+ 1611  nano README.md 
+ 1612  git commit -m "third commit"
+ 1613  git checkout 2103b6418ecf4f70effabb639cfad6ac9d57c089
+ 1614  git checkout master
+ 1615  git checkout -b milkshake-flavours
+ 1616  git add .
+ 1617  git commit -m "added initial flavours"
+ 1618  git checkout -b history
+ 1619  history > hstory.txt
+ 1620  git add .
+ 1621  git commit -m "added history"
+ 1622  git branch
+ 1623  nano README.md 
+ 1624  git commit -m "random readme changes"
+ 1625  git checkout history 
+ 1626  cat README.md 
+ 1627  rm README.md
+ 1628  git add .
+ 1629  git checkout master 
+ 1630  ls
+ 1631  git log
+ 1632  git checkout milkshake-flavours 
+ 1633  ls
+ 1634  git log
+ 1635  git checkout history 
+ 1636  ls
+ 1637  git log
+ 1638  git checkout master 
+ 1639  git merge milkshake-flavours 
+ 1640  ls
+ 1641  git merge history
+ 1642  git checkout history 
+ 1643  git status\nOn branch master
+ 1644  git add .
+ 1645  git status\nOn branch master
+ 1646  git merge history 
+ 1647  ls
+ 1648  git commit -m "fixed conflict"
+ 1649  git branch
+ 1650  git merge history 
+ 1651  git checkout history 
+ 1652  git status
+ 1653  git add .
+ 1654  git commit -a 
+ 1655  git status
+ 1656  git branch
+ 1657  git merge history 
+ 1658  ls
+ 1659  git checkout history 
+ 1660  git log
+ 1661  git checkout milkshake-flavours 
+ 1662  git checkout history 
+ 1663  git log
+ 1664  git checkout milkshake-flavours 
+ 1665  git branch
+ 1666  git checkout history 
+ 1667  git log
+ 1668  git checkout master 
+ 1669  git remote add origin https://github.com/Yanga24/git-basics-exercises.git
+ 1670  git branch -M main
+ 1671  git push -u origin main
+ 1672  git status
+ 1673  git checkout history 
+ 1674  git push
+ 1675  git push --set-upstream origin history
+ 1676  git checkout milkshake-flavours 
+ 1677  git push
+ 1678  git push --set-upstream origin milkshake-flavours
+ 1679  cd ..
+ 1680  git clone https://github.com/Yanga24/git-basics-exercises.git
+ 1681  git branch
+ 1682  git log
+ 1683  cd ..
+ 1684  cd Desktop
+ 1685  cd ..
+ 1686  git clone Yanga-Kanzi-606-tilde-project-tutorial-how-repo-projects-work-
+ 1687  git clone How_repo_projects_works.md
+ 1688  sudo apt update
+ 1689  sudo apt upgrade
+ 1690  cd git-basics-exercises
+ 1691  git commit -m "initial commit"
+ 1692  nano README.md 
+ 1693  git add .
+ 1694  git commit -m "second commit"
+ 1695  nano README.md 
+ 1696  git add .
+ 1697  git commit -m "third commit"
+ 1698  git log
+ 1699  git checkout 2103b6418ecf4f70effabb639cfad6ac9d57c089
+ 1700  git checkout -b milkshake-flavours
+ 1701  nano milkshakes.md
+ 1702  git add .
+ 1703  git commit -m "added initial flavours"
+ 1704  git checkout master
+ 1705  git checkout -b history
+ 1706  git add . 
+ 1707  git commit -m "added history"
+ 1708  git branch
+ 1709  ls
+ 1710  nano README.md 
+ 1711  git add 
+ 1712  git add .
+ 1713  git commit -m "random readme changes"
+ 1714  git checkout history 
+ 1715  cat README.md 
+ 1716  git checkout history 
+ 1717  cat README.md
+ 1718  git commit -m "random readme changes"
+ 1719  cat README.md 
+ 1720  clear
+ 1721  ls
+ 1722  clear
+ 1723  cd git-basic-exercises
+ 1724  git init
+ 1725  touch README.md
+ 1726  git add .
+ 1727  git commit -m "initial commit"
+ 1728  nano README.md 
+ 1729  git commit -m "second commit"
+ 1730  nano README.md 
+ 1731  git add .
+ 1732  git commit -m "third commit"
+ 1733  git log
+ 1734  git checkout master
+ 1735  git branch
+ 1736  git commit -m "added initial flavours"
+ 1737  git add . 
+ 1738  git commit -m "added history"
+ 1739  ls
+ 1740  nano README.md 
+ 1741  git add .
+ 1742  git commit -m "random readme changes"
+ 1743  git commit -m "rewrote readme"
+ 1744  git checkout master 
+ 1745  git log
+ 1746  git checkout milkshake-flavours 
+ 1747  ls
+ 1748  git log
+ 1749  git checkout history 
+ 1750  ls
+ 1751  git commit -m "rewrote readme"
+ 1752  git add .
+ 1753  git log
+ 1754  git commit -m "rewrote readme"
+ 1755  ls
+ 1756  git log
+ 1757  git checkout milkshake-flavours 
+ 1758  git log
+ 1759  git checkout history 
+ 1760  ls
+ 1761  git log
+ 1762  git checkout master 
+ 1763  git merge milkshake-flavours 
+ 1764  git log
+ 1765  git merge history
+ 1766  git add .
+ 1767  git status
+ 1768  git checkout master 
+ 1769  git merge history 
+ 1770  git commit -m "fixed conflict"
+ 1771  git branch
+ 1772  git merge history 
+ 1773  git status
+ 1774  git add README.md 
+ 1775  git branch
+ 1776  git merge 
+ 1777  git log
+ 1778  git checkout history 
+ 1779  git log
+ 1780  git branch
+ 1781  git checkout history 
+ 1782  git log
+ 1783  git checkout master 
+ 1784  git remote add origin https://github.com/Yanga24/git-basics-exercises.git
+ 1785  git push -u origin main
+ 1786  git status
+ 1787  git push --set-upstream origin history
+ 1788  git checkout milkshake-flavours 
+ 1789  git checkout master
+ 1790  git checkout main 
+ 1791  cd ..
+ 1792  git clone https://github.com/Yanga24/git-basics-exercises.git
+ 1793  echo "# git-basics-exercises" >> README.md
+ 1794  git clone git@github.com:Yanga24/git-basics-exercises.git
+ 1795  git checkout -b project/git-basic-exercises
+ 1796  git remote -v
+ 1797  cd git-basic-exercises/
+ 1798  cd git-basic-exercises
+ 1799  cd ..
+ 1800  cd git-basics-exercises
+ 1801  git init
+ 1802  cd Desktop
+ 1803  ls
+ 1804  cd Desktop
+ 1805  cd
+ 1806  cd git-basics-exercises
+ 1807  git clone git@github.com:Yanga24/git-basics-exercises.git
+ 1808  git log
+ 1809  git checkout -b project/git-basic-exercises
+ 1810  cd git-basics-exercises
+ 1811  git init
+ 1812  touch README.md
+ 1813  git add .
+ 1814  cd git-basics-exercises
+ 1815  touch ignore-me.db
+ 1816  nano .gitignore
+ 1817  git status
+ 1818  cd ..
+ 1819  cd git-basics-exercises
+ 1820  cd large-directory-that-should-be-local-only/
+ 1821  git status
+ 1822  nano .git\n.git/       .gitignore  
+ 1823  git add
+ 1824  git add ..
+ 1825  git commit -m "added .gitignore"
+ 1826  ls
+ 1827  cd ..
+ 1828  touch README.md
+ 1829  cd ..
+ 1830  git status
+ 1831  nano .git\n.git/       .gitignore  
+ 1832  git add .gitignore
+ 1833  git push
+ 1834  git push  git push --set-upstream origin project/git-basic-exercises
+ 1835  cd git-basic-exercises
+ 1836  git push
+ 1837  cd Desktop
+ 1838  cd ..
+ 1839  git clone git@github.com:Umuzi-org/Yanga-Kanzi-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1840  chmod 600 ~/Downloads/qwikLABS-L2401-24325414.pem
+ 1841  ssh -i ~/Downloads/qwikLABS-L2401-24325414.pem student-00-9dba0de59cda@35.188.109.130
+ 1842  git clone git@github.com:Umuzi-org/Yanga-Kanzi-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1843  git checkot -b How_repo_projects_works
+ 1844  cd Yanga-Kanzi-606-tilde-project-tutorial-how-repo-projects-work-
+ 1845  git chechout How_repo_projects_works.md
+ 1846  git chechout How_repo_projects_works
+ 1847  git chechout -b  How_repo_projects_works
+ 1848  touch file.md
+ 1849  nano file.md
+ 1850  git status
+ 1851  git init
+ 1852  git add .
+ 1853  git commit -m "initial commit"
+ 1854  git push
+ 1855  git push --set-upstream origin how_repo_projects_works
+ 1856  chmod 600 ~/Downloads/qwikLABS-L2398-24335897.pem
+ 1857  ssh -i ~/Downloads/qwikLABS-L2398-24335897.pem student-04-515a15a481b0@35.202.65.113
+ 1858  chmod 600 ~/Downloads/qwikLABS-L2385-24431201.pem
+ 1859  ssh -i ~/Downloads/qwikLABS-L2385-24431201.pem student-04-dada1a9846bb@130.211.127.18
+ 1860  git clone https://github.com/Yanga24/Coursera1.git
+ 1861  git checkout -b Coursera1
+ 1862  nano.md
+ 1863  nano file.md
+ 1864  git status
+ 1865  git init
+ 1866  git status
+ 1867  git add .
+ 1868  git commit -m "initial commit"
+ 1869  git push
+ 1870  git push -u origin master
+ 1871  git push --set-upstream origin master Coursera1
+ 1872  clear
+ 1873  git clone https://github.com/Yanga24/Coursera1.git
+ 1874  chmod 600 ~/Downloads/qwikLABS-L2385-24431201.pem
+ 1875  ssh -i ~/Downloads/qwikLABS-L2385-24431201.pem student-04-dada1a9846bb@130.211.127.18
+ 1876  cd Desktop
+ 1877  ls
+ 1878  cd..
+ 1879  cd ..
+ 1880  cd Desktop
+ 1881  clear
+ 1882  cd recruit/Coursera1
+ 1883  toch file.md
+ 1884  touch file.md
+ 1885  nano file.md
+ 1886  git status
+ 1887  git init
+ 1888  git add ..
+ 1889  git commit -m "initial commit"
+ 1890  git push
+ 1891  chmod 600 ~/Downloads/qwikLABS-L2385-24432988.pem
+ 1892  ssh -i ~/Downloads/qwikLABS-L2385-24432988.pem student-03-948a74b279b3@34.69.177.182
+ 1893  chmod 600 ~/Downloads/qwikLABS-L2385-24432988 (1).pem
+ 1894  chmod 600 ~/Downloads/qwikLABS-L2385-24432988.pem
+ 1895  ssh -i ~/Downloads/qwikLABS-L2385-24432988.pem student-03-948a74b279b3@34.69.177.182
+ 1896  cd ..
+ 1897  cd Desktop
+ 1898  ls
+ 1899  touc file.md
+ 1900  touch file.md
+ 1901  nano file.md
+ 1902  git status
+ 1903  git init
+ 1904  git add ..
+ 1905  git add .
+ 1906  cd Desktop
+ 1907  cd qwiklab-week3
+ 1908  touch file.md
+ 1909  nano file.md
+ 1910  git status
+ 1911  git init
+ 1912  git add .
+ 1913  git commit -m "initial commit"
+ 1914  git push
+ 1915  git push -u origin master
+ 1916  git push --set-upstream  origin qwiklab-week3
+ 1917  git remote add origin https://github.com/Yanga24/qwiklab-week3.git
+ 1918  git push -u origin master
+ 1919  chmod 600 ~/Downloads/qwikLABS-L2385-24432988.pem
+ 1920  ssh -i ~/Downloads/qwikLABS-L2385-24432988.pem student-03-948a74b279b3@34.69.177.182
+ 1921  git branch
+ 1922  git checkout -b how_continue_repo_projects_works
+ 1923  chmod 600 ~/Downloads/qwikLABS-L2385-24465628.pem
+ 1924  ssh -i ~/Downloads/qwikLABS-L2385-24465628.pem student-02-e4537e232618@35.239.106.240
+ 1925  chmod 600 ~/Downloads/qwikLABS-L2385-24465628 (1).pem
+ 1926  ssh -i ~/Downloads/qwikLABS-L2385-24465628 (1).pem student-02-e4537e232618@35.239.106.240
+ 1927  clear
+ 1928  chmod 600 ~/Downloads/qwikLABS-L2385-24465628.pem
+ 1929  ssh -i ~/Downloads/qwikLABS-L2385-24465628.pem student-02-e4537e232618@35.239.106.240
+ 1930  chmod 600 ~/Downloads/qwikLABS-L2405-24500332.pem
+ 1931  ssh -i ~/Downloads/qwikLABS-L2405-24500332.pem student-00-76bf8499e909@35.224.145.238
+ 1932  clear
+ 1933  chmod 600 ~/Downloads/qwikLABS-L2405-24500332.pem
+ 1934  ssh -i ~/Downloads/qwikLABS-L2405-24500332.pem student-00-76bf8499e909@35.224.145.238
+ 1935  sudo apt update
+ 1936  sudo apt upgrade
+ 1937  chmod 600 ~/Downloads/qwikLABS-L2382-24531725.pem
+ 1938  ssh -i ~/Downloads/qwikLABS-L2382-24531725.pem student-03-8a13cfed6db5@35.223.63.125
+ 1939  chmod 600 ~/Downloads/qwikLABS-L2399-24532182.pem
+ 1940  ssh -i ~/Downloads/qwikLABS-L2399-24532182.pem student-02-ab50a2e0bfa4@35.223.153.157
+ 1941  sudo apt install python3-pip
+ 1942  pip3 install psutil
+ 1943  chmod 600 ~/Downloads/qwikLABS-L2399-24532182 (1).pem
+ 1944  cd Desktop
+ 1945  ls
+ 1946  cd Downloads
+ 1947  cd ..
+ 1948  chmod 600 ~/Downloads/qwikLABS-L2399-24532182.pem
+ 1949  ssh -i ~/Downloads/qwikLABS-L2399-24532182.pem student-02-ab50a2e0bfa4@35.223.153.157
+ 1950  ls ~/scripts
+ 1951  chmod 600 ~/Downloads/qwikLABS-L2399-24532182.pem
+ 1952  ssh -i ~/Downloads/qwikLABS-L2399-24532182.pem student-02-ab50a2e0bfa4@35.223.153.157
+ 1953  chmod 600 ~/Downloads/qwikLABS-L2399-24532182 (2).pem
+ 1954  cd ..
+ 1955  chmod 600 ~/Downloads/qwikLABS-L2399-24532182 (2).pem\n
+ 1956  cd ..
+ 1957  chmod 600 ~/Downloads/qwikLABS-L2399-24532182 (2).pem
+ 1958  sudo apt update
+ 1959  sudo apt upgrade
+ 1960  clear
+ 1961  chmod 600 ~/Downloads/qwikLABS-L2399-24532182 (2).pem
+ 1962  sudo apt install python3-pip
+ 1963  clear
+ 1964  chmod 600 ~/Downloads/qwikLABS-L2399-24533632.pem
+ 1965  ssh -i ~/Downloads/qwikLABS-L2399-24533632.pem student-02-89227ce790b0@34.72.233.33
+ 1966  chmod 600 ~/Downloads/qwikLABS-L2399-24533632.pem
+ 1967  ssh -i ~/Downloads/qwikLABS-L2399-24533632.pem student-02-89227ce790b0@34.72.233.33
+ 1968  chmod 600 ~/Downloads/qwikLABS-L2399-24534546.pem
+ 1969  ssh -i ~/Downloads/qwikLABS-L2399-24534546.pem student-02-287b44fe3c7b@34.68.250.57
+ 1970  chmod 600 ~/Downloads/qwikLABS-L2378-24536132.pem
+ 1971  ssh -i ~/Downloads/qwikLABS-L2378-24536132.pem student-02-ce0130361b22@34.72.132.56
+ 1972  chmod 600 ~/Downloads/qwikLABS-L2384-24536814.pem
+ 1973  ssh -i ~/Downloads/qwikLABS-L2384-24536814.pem
+ 1974  ssh -i ~/Downloads/qwikLABS-L2384-24536814.pem student-02-edfc2238a406@34.69.255.48
+ 1975  chmod 600 ~/Downloads/\nqwikLABS-L2400-24538409.pem
+ 1976  chmod 600 ~/Downloads/qwikLABS-L2400-24538409 (1).pem
+ 1977  chmod 600 ~/Documents/qwikLABS-L2400-24538449.pem
+ 1978  ssh -i ~/Documents/qwikLABS-L2400-24538449.pem student-02-18d2cdb01877@34.122.25.113
+ 1979  chmod 600 ~/Documents/qwikLABS-L2400-24538449.pem
+ 1980  ssh -i ~/Documents/qwikLABS-L2400-24538449.pem student-02-18d2cdb01877@34.122.25.113
+ 1981  echo $PATH
+ 1982  ls /
+ 1983  clear
+ 1984  sudo apt update
+ 1985  sudo apt upgrade
+ 1986  chmod 600 ~/Downloads/qwikLABS-L2400-24538449.pem
+ 1987  chmod 600 ~/Downloads/qwikLABS-L2400-24538586.pem
+ 1988  chmod 600 ~/Documents/qwikLABS-L2400-24538586.pem\n
+ 1989  ssh -i ~/Documents/qwikLABS-L2400-24538586.pem student-01-b49d896c53ce@34.72.79.73
+ 1990  echo $PATH
+ 1991  ls /
+ 1992  export PATH=/bin:/usr/bin
+ 1993  ls /
+ 1994  cd /etc/puppet/code/environments/production/modules/profile/manifests
+ 1995  cat init.pp
+ 1996  sudo nano init.pp
+ 1997  sudo puppet agent -v --test
+ 1998  cd Desktop
+ 1999  ls
+ 2000  cd Documents
+ 2001  chmod 600 ~/Documents/qwikLABS-L2400-24538586.pem
+ 2002  ssh -i ~/Documents/qwikLABS-L2400-24538586.pem student-01-b49d896c53ce@34.72.79.73
+ 2003  cd ..
+ 2004  ssh -i ~/Documents/qwikLABS-L2400-24538586.pem student-01-b49d896c53ce@34.72.79.73
+ 2005  sudo apt upgrade
+ 2006  clear
+ 2007  cd ..
+ 2008  chmod 600 ~/Documents/qwikLABS-L2400-24538586.pem
+ 2009  ssh -i ~/Documents/qwikLABS-L2400-24538586.pem student-01-b49d896c53ce@34.72.79.73
+ 2010  chmod 600 ~/Documents/qwikLABS-L2404-24543987.pem
+ 2011  ssh -i ~/Downloads/qwikLABS-L2404-24543987.pem student-03-725e55d13ee4@35.184.222.217
+ 2012  chmod 600 /home/recruit/Documents/qwikLABS-L2404-24543987.pem\n
+ 2013  ssh i /home/recruit/Documents/qwikLABS-L2404-24543987.pem student-03-725e55d13ee4@35.184.222.217
+ 2014  cd ..
+ 2015  chmod 600 ~/Downloads/qwikLABS-L2404-24543987.pem
+ 2016  ssh -i ~/Documents/qwikLABS-L2404-24543987.pem student-03-725e55d13ee4@35.184.222.217
+ 2017  sudo apt update
+ 2018  sudo apt upgrade
+ 2019  ssh -i ~/Documents/qwikLABS-L2404-24543987.pem student-03-725e55d13ee4@35.184.222.217
+ 2020  cd Desktop
+ 2021  ls
+ 2022  cd Documents/
+ 2023  cd ..
+ 2024  ls
+ 2025  cd Documents
+ 2026  chmod 600 ~/Documents/qwikLABS-L2404-24543987.pem
+ 2027  ssh -i ~/Documents/qwikLABS-L2404-24543987.pem student-03-725e55d13ee4@35.184.222.217
+ 2028  cd /etc/puppet/code/environments/production/modules/packages
+ 2029  cd ..
+ 2030  chmod 600 ~/Documents/qwikLABS-L2404-24543987.pem
+ 2031  ssh -i ~/Documents/qwikLABS-L2404-24543987.pem student-03-725e55d13ee4@35.184.222.217
+ 2032  chmod 600 ~/Documents/qwikLABS-L2404-24543987.pem
+ 2033  ssh -i ~/Documents/qwikLABS-L2404-24543987.pem student-03-725e55d13ee4@35.184.222.217
+ 2034  cd git-basics-exercises
+ 2035  ls -a
+ 2036  git init
+ 2037  ls -a
+ 2038  git status
+ 2039  touch README.md
+ 2040  ls -a
+ 2041  chmod 600 ~/Documents/qwikLABS-L2402-24570299.pem
+ 2042  ssh -i ~/Documents/qwikLABS-L2402-24570299.pem student-00-35e220d8e8b8@34.70.44.126
+ 2043  chmod 600 ~/Downloads/qwikLABS-L2400-24657549.pem
+ 2044  chmod 600 ~/Documents/qwikLABS-L2400-24657549.pem\n
+ 2045  ssh -i ~/Documents/qwikLABS-L2400-24657549.pem student-00-572b70e23690@34.71.139.202
+ 2046  chmod 600 ~/Documents/qwikLABS-L2404-24688291.pem
+ 2047  ssh -i ~/Documents/qwikLABS-L2404-24688291.pem student-01-5a4efcad4eb0@34.72.101.69
+ 2048  chmod 600 ~/Documents/qwikLABS-L2404-24739717.pem
+ 2049  ssh -i ~/Documents/qwikLABS-L2404-24739717.pem student-02-9734da269923@35.184.164.107
+ 2050  chmod 600 ~/Documents/qwikLABS-L2404-24739717.pem
+ 2051  ssh -i ~/Documents/qwikLABS-L2404-24739717.pem student-02-9734da269923@35.239.90.94
+ 2052  sudo puppet agent -v --test
+ 2053  chmod 600 ~/Documents/qwikLABS-L2404-24739717.pem
+ 2054  ssh -i ~/Documents/qwikLABS-L2404-24739717.pem student-02-9734da269923@35.239.90.94
+ 2055  chmod 600 ~/Documents/qwikLABS-L2404-24739717.pem
+ 2056  ssh -i ~/Documents/qwikLABS-L2404-24739717.pem student-02-9734da269923@35.239.90.94
+ 2057  chmod 600 ~/Documents/qwikLABS-L2519-24766178.pem
+ 2058  ssh -i ~/Documents/qwikLABS-L2519-24766178.pem student-01-becf11659cb0@35.239.222.204
+ 2059  chmod 600 ~/Documents/qwikLABS-L2516-24892419.pem
+ 2060  ssh -i ~/Documents/qwikLABS-L2516-24892419.pem student-00-d798e4f0aae7@34.68.132.94
+ 2061  chmod 600 ~/Documents/qwikLABS-L2519-24893925.pem
+ 2062  ssh -i ~/Documents/qwikLABS-L2519-24893925.pem student-00-b0c28e979576@35.224.244.255
+ 2063  chmod 600 ~/Documents/qwikLABS-L2519-24893925.pem
+ 2064  ssh -i ~/Documents/qwikLABS-L2519-24893925.pem student-03-bf8843bce1af@34.68.239.113
+ 2065  clear
+ 2066  chmod 600 ~/Documents/qwikLABS-L2519-24893925.pem
+ 2067  ssh -i ~/Documents/qwikLABS-L2519-24893925.pem student-03-bf8843bce1af@34.68.239.113
+ 2068  clear
+ 2069  chmod 600 ~/Documents/qwikLABS-L2518-24906947.pem
+ 2070  ssh -i ~/Documents/qwikLABS-L2518-24906947.pem student-03-bf8843bce1af@34.68.239.113
+ 2071  nano ~/scripts/cars.py\n.git/       .gitignore  
+ 2072  chmod 600 ~/Documents/qwikLABS-L2518-24939366.pem
+ 2073  ssh -i ~/Documents/qwikLABS-L2518-24939366.pem student-00-d155da60b445@34.122.118.126
+ 2074  chmod 600 ~/Documents/qwikLABS-L2517-24942627.pem
+ 2075  ssh -i ~/Documents/qwikLABS-L2517-24942627.pem student-04-524653ac47ac@34.121.80.66
+ 2076  user)
+ 2077  chmod 600 ~/Documents/qwikLABS-L2518-24945529.pem
+ 2078  ssh -i ~/Documents/qwikLABS-L2518-24945529.pem student-00-4b2eff202e09@34.122.81.240
+ 2079  chmod 600 ~/Documents/qwikLABS-L2517-24949477.pem
+ 2080  ssh -i ~/Documents/qwikLABS-L2517-24949477.pem student-02-d59a3c6174d9@34.67.249.41
+ 2081  chmod 600 ~/Desktop/qwikLABS-L2517-24949477.pem
+ 2082  ssh -i ~/Desktop/qwikLABS-L2517-24949477.pem student-02-d59a3c6174d9@34.67.249.41
+ 2083  chmod 600 ~/Desktop/chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ 2084  ssh -i ~/Desktop/qwikLABS-L2517-24953785.pem student-03-e9bff24e5ef6@35.193.8.105
+ 2085  chmod 600 ~/Desktop/qwikLABS-L2518-24974800.pem
+ 2086  ssh -i ~/Desktop/qwikLABS-L2518-24974800.pem student-04-6f68d2dde400@34.68.54.164
+ 2087  chmod 600 ~/Desktop/qwikLABS-L2518-24978266.pem
+ 2088  ssh -i ~/Desktop/qwikLABS-L2518-24978266.pem student-01-8835ccc0da99@34.66.86.152
+ 2089  chmod 600 ~/Desktop/qwikLABS-L2517-24988772.pem
+ 2090  ssh -i ~/Desktop/qwikLABS-L2517-24988772.pem student-02-238a1f41c66f@34.67.143.27
+ 2091  chmod 600 ~/Desktop/qwikLABS-L2517-25014017.pem
+ 2092  ssh -i ~/Desktop/qwikLABS-L2517-25014017.pem student-02-9737630f23d4@34.69.33.41
+ 2093  chmod 600 ~/Desktop/qwikLABS-L2517-25019930.pem
+ 2094  ssh -i ~/Desktop/qwikLABS-L2517-25019930.pem student-03-edd85539c4a8@35.223.140.56
+ 2095  chmod 600 ~/Desktop/qwikLABS-L2517-25066407.pem
+ 2096  ssh -i ~/Desktop/qwikLABS-L2517-25066407.pem student-01-d14fcf8aa73f@104.197.147.31
+ 2097  chmod 600 ~/Desktop/qwikLABS-L2517-25066407.pem
+ 2098  ssh -i ~/Desktop/qwikLABS-L2517-25066407.pem student-01-d14fcf8aa73f@104.197.147.31
+ 2099  chmod 600 ~/Desktop/qwikLABS-L2517-25066407.pem
+ 2100  ssh -i ~/Desktop/qwikLABS-L2517-25066407.pem student-01-d14fcf8aa73f@104.197.147.31
+ 2101  chmod 600 ~/Desktop/qwikLABS-L2517-25066407.pem
+ 2102  ssh -i ~/Desktop/qwikLABS-L2517-25066407.pem student-01-d14fcf8aa73f@104.197.147.31
+ 2103  chmod 600 ~/Desktop/qwikLABS-L2518-25069995.pem
+ 2104  ssh -i ~/Desktop/qwikLABS-L2518-25069995.pem student-03-8e95a0bf36e2@34.123.21.255
+ 2105  chmod 600 ~/Desktop/qwikLABS-L2517-25145493.pem
+ 2106  ssh -i ~/Desktop/qwikLABS-L2517-25145493.pem student-00-ee364ec485ce@34.123.182.101
+ 2107  chmod 600 ~/Desktop/qwikLABS-L2517-25145493.pem
+ 2108  ssh -i ~/Desktop/qwikLABS-L2517-25145493.pem student-00-ee364ec485ce@34.123.182.101
+ 2109  sudo apt upgrade
+ 2110  sudo apt update
+ 2111  sudo apt upgrade
+ 2112  sudo apt update
+ 2113  sudo apt upgrade
+ 2114  chmod 600 ~/Desktop/qwikLABS-L2518-25149492.pem
+ 2115  ssh -i ~/Desktop/qwikLABS-L2518-25149492.pem student-03-d4b3bed49b77@104.197.88.92
+ 2116  chmod 600 ~/Desktop/qwikLABS-L2517-25191373.pem
+ 2117  ssh -i ~/Desktop/qwikLABS-L2517-25191373.pem student-03-414789d0e8b6@34.66.120.193
+ 2118  chmod 600 ~/Desktop/qwikLABS-L2517-25191373.pem
+ 2119  ssh -i ~/Desktop/qwikLABS-L2517-25191373.pem student-03-414789d0e8b6@34.66.120.193
+ 2120  chmod 600 ~/Desktop/qwikLABS-L2518-25192231.pem
+ 2121  ssh -i ~/Desktop/qwikLABS-L2518-25192231.pem student-04-391fa6954139@34.67.32.229
+ 2122  chmod 600 ~/Desktop/qwikLABS-L2518-25278309.pem
+ 2123  ssh -i ~/Desktop/qwikLABS-L2518-25278309.pem student-01-d3f2cdaabaca@35.222.56.219
+ 2124  chmod 600 ~/Desktop/qwikLABS-L2518-25289639.pem
+ 2125  sudo apt update
+ 2126  sudo apt upgrade
+ 2127  chmod 600 ~/Desktop/qwikLABS-L2518-25289639.pem
+ 2128  ssh -i ~/Desktop/qwikLABS-L2518-25289639.pem student-00-3e1568b57072@35.192.49.247
+ 2129  chmod 600 ~/Desktop/qwikLABS-L2518-25319281.pem
+ 2130  ssh -i ~/Desktop/qwikLABS-L2518-25319281.pem student-00-d047c38cab5a@107.178.208.40
+ 2131  cd git-basics-exercises
+ 2132  ls -a
+ 2133  git init
+ 2134  git status
+ 2135  mkdir git-basic-exercises
+ 2136  cd git-basic
+ 2137  cd git-basic-exercises/
+ 2138  touch README.md
+ 2139  git add .
+ 2140  git commit -m "initial commit"
+ 2141  git add .
+ 2142  git commit -m "second commit"
+ 2143  nano README.md 
+ 2144  git checkout 5e37f161a6fa5dc6de158e1ea3f0afc9ef4af23c
+ 2145  git checkout 2103b6418ecf4f70effabb639cfad6ac9d57c089
+ 2146  git checkout master
+ 2147  git checkout -b milkshake-flavours
+ 2148  git commit -m "added initial flavours"
+ 2149  git checkout -b history
